@@ -262,9 +262,9 @@ return
 !1::
 AfterCatched:
 WinActivate, win_title
-Click, 960, 842 Left, Down
+Click, 960, 813 Left, Down
 Sleep, 10
-Click, 960, 842 Left, Up
+Click, 960, 813 Left, Up
 Sleep, 1200
 Click, 960, 1114 Left, Down
 Sleep, 10
